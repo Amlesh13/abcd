@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-Title: Master App
+Implementation-Version: 1.0
+Implementation-Vendor-Id: com.master.app
+Build-Jdk: 1.7.0_67
+Built-By: Amleshkumar.Jha
+Created-By: Maven Integration for Eclipse
+Implementation-URL: http://projects.spring.io/spring-boot/master-app/
+

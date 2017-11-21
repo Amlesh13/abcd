@@ -1,0 +1,8 @@
+com\ams\entity\Details.class
+com\ams\dao\IDetailsDAO.class
+com\ams\MyApplication.class
+com\ams\dto\RequestCompleteDetails.class
+com\ams\controller\DetailsController.class
+com\ams\dao\DetailsDAO.class
+com\ams\service\DetailsServiceImpl.class
+com\ams\service\IDetailsService.class

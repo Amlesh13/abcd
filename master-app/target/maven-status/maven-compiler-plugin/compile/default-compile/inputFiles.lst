@@ -1,0 +1,8 @@
+D:\code\ams_service\master-app\src\main\java\com\ams\MyApplication.java
+D:\code\ams_service\master-app\src\main\java\com\ams\entity\Details.java
+D:\code\ams_service\master-app\src\main\java\com\ams\dto\RequestCompleteDetails.java
+D:\code\ams_service\master-app\src\main\java\com\ams\service\DetailsServiceImpl.java
+D:\code\ams_service\master-app\src\main\java\com\ams\dao\DetailsDAO.java
+D:\code\ams_service\master-app\src\main\java\com\ams\controller\DetailsController.java
+D:\code\ams_service\master-app\src\main\java\com\ams\service\IDetailsService.java
+D:\code\ams_service\master-app\src\main\java\com\ams\dao\IDetailsDAO.java
